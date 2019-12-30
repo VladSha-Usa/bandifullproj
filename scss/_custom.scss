@@ -1,0 +1,49 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+) !default;
+$grid-breakpoints: (
+  xs: 0,
+  sm: 587px,
+  md: 768px,
+  lg: 1007px,
+  xl: 1220px
+) !default;
+$link-color: #062033;
+$line-height-base: 1.313 !default;
+$font-size-base: 0.813rem;
+$body-color: #062033;
+$font-family-base: "Open Sans", sans-serif;
+$navbar-light-color: #ffffff;
+$navbar-light-hover-color: #ffffff;
+$navbar-light-active-color: #ffffff;
+$navbar-nav-link-padding-x: 0;
+$navbar-padding-y: 0;
+$font-size-lg: 1.75rem;
+$carousel-indicator-width: 7px;
+$carousel-indicator-height: 7px;
+$h1-font-size: 3.875rem;
+$h2-font-size: 1.75rem;
+$h3-font-size: 1.125rem;
+$h4-font-size: 0.875rem;
+$card-bg: transparent;
+$card-border-color: transparent;
+$h3-font-size: 1.25rem;
+$btn-font-size-sm: 0.875rem;
+$btn-padding-x-sm: 1.125rem;
+$btn-border-radius-sm: 0.3125rem;
+$btn-focus-width:none;
+$secondary: #0eb493;
+$card-border-radius: none;
+$input-color: #062033;
+$input-font-size: 0.813rem;
+$input-placeholder-color: #adb1b6;
+$input-border-width: 0;
+$input-border-radius: 0;
+$input-btn-padding-y: 0;
+$input-btn-padding-x: 0;
+$input-btn-font-size: 1rem;
+$navbar-light-toggler-border-color: none;
+$input-btn-focus-color: none;
